@@ -9,6 +9,7 @@ export default class Basic  extends Component {
           id:'',
           name:'',
           author:'',
+          post:''
       }
     }
     changeHandler=(event)=>
